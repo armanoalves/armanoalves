@@ -2,6 +2,7 @@
 
 - 🔭 Trabalhei na área de segurança de dados como estagiário
 - 🌱 Estou estudando Python, DB, HTML, CSS e JavaScript
+- 💻 Atualmente estou fazendo faculdade de Ciência da Computação
 <div>
   <a href="https://https://github.com/haytls">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=haytls&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
