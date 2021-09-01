@@ -1,17 +1,13 @@
 ### Olá meu nome é Armano Alves 
 
-<div>
-  <img align="right" alt="Armano-Python"  height="502" width="380" src = "https://i.pinimg.com/originals/35/4a/eb/354aebbc05b98731b004a6378c03b4dc.gif"/>
-<div/>
-
 - 🔭 Trabalhei na área de segurança de dados como estagiário
 - 🌱 Estou estudando Python, DB, HTML, CSS e JavaScript
 - 💻 Atualmente estou fazendo faculdade de Ciência da Computação
  &nbsp;
 <div>
   <a href="https://https://github.com/haytls">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=haytls&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haytls&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=haytls&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haytls&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
