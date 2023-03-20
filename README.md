@@ -1,5 +1,3 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://imgur.com/XzjJIQq.png ">
-
 <div dsplay="inline-block">
  
  <h1 align="left">Armano Alves</h1>
